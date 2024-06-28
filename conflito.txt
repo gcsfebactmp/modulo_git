@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 olá, tudo bem?
+=======
+olá, tudo bem?
+<<<<<<< HEAD
+
+paragrafo novo
+=======
+>>>>>>> origin/main
+>>>>>>> main
