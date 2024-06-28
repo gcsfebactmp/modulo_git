@@ -1,3 +1,6 @@
 olá, tudo bem?
+<<<<<<< HEAD
 
 paragrafo novo
+=======
+>>>>>>> origin/main
